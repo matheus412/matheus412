@@ -10,11 +10,7 @@ Claro, aqui está um exemplo de um `README.md` para seu GitHub:
 
 ## Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-</div>
-
+<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/envelope-solid.min.css" alt="Ícone de envelope" />
 
 
 Fique à vontade para explorar meus repositórios para ver mais projetos!
