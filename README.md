@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de um `README.md` para seu GitHub:
-
-```markdown
 # Olá! Eu sou Matheus Santos 👋
 
 ## Sobre Mim
