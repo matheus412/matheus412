@@ -13,11 +13,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por programa�
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo desenvolvimento web full-stack.
-- 💼 Estou buscando por oportunidades de estágio na área de desenvolvimento de software.
-- 💬 Me pergunte sobre HTML, CSS, JavaScript, e qualquer coisa relacionada a desenvolvimento web!
+- 🌱 Atualmente estou aprendendo desenvolvimento front-end.
+- 💼 Estou buscando por oportunidades de estágio na área de desenvolvimento web.
 - 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- 😄 Pronomes: Ele/dele
 
 ## Projetos
 
@@ -29,6 +27,3 @@ Aqui estão alguns projetos nos quais tenho trabalhado:
 
 Fique à vontade para explorar meus repositórios para ver mais projetos!
 
-```
-
-Certifique-se de substituir `link_para_projeto_1`, `link_para_projeto_2` e `link_para_projeto_3` pelos links reais para seus projetos no GitHub.
