@@ -12,7 +12,7 @@ Tenho experiência em desenvolvimento **frontend**, **backend**, banco de dados 
 
 🎯 Busco sempre unir **boa lógica**, **boas práticas de código** e **design limpo** para entregar resultados de alta qualidade.
 
-📌 Aberto a oportunidades como **desenvolvedor web** ou **projetos freelancer**.
+📌 Aberto a oportunidades de **projetos freelancer**.
 
 ---
 
