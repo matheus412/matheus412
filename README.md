@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Matheus Santos  
 
 ### 💻 Analista e Desenvolvedor de Sistemas  
-Apaixonado por tecnologia, desenvolvimento web e criação de soluções completas — desde o design da interface até a implementação do backend.
+Apaixonado por tecnologia, desenvolvimento web e criação de soluções completas.
 
 ---
 
