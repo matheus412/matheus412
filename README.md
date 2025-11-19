@@ -5,19 +5,6 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções complet
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho criando experiências digitais modernas, rápidas e funcionais.  
-Tenho experiência em desenvolvimento **frontend**, **backend**, banco de dados e criação de projetos completos.
-
-🎯 Busco sempre unir **boa lógica**, **boas práticas de código** e **design limpo** para entregar resultados de alta qualidade.
-
-📌 Aberto a oportunidades de **projetos freelancer**.
-
----
-
-## 🧠 Habilidades Técnicas
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <!-- Frontend -->
@@ -41,36 +28,5 @@ Tenho experiência em desenvolvimento **frontend**, **backend**, banco de dados 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
-
----
-
-## 📬 Entre em Contato
-
-<div style="display: flex; flex-direction: column; gap: 10px; font-size: 17px;">
-
-📧 **Email:**  
-<a href="mailto:tedymoraes.mm@gmail.com">
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a> → tedymoraes.mm@gmail.com  
-
-📱 **Telefone:**  
-📞 (88) 98852-3055  
-
-🔗 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/matheus-santos-developerweb/">
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a> → linkedin.com/in/matheus-santos-developerweb  
-
-🐙 **GitHub:**  
-<a href="https://github.com/matheus412">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</a> → github.com/matheus412  
-
-</div>
-
----
-
-💼 *Sempre em evolução. Sempre aprendendo. Sempre construindo.*  
-
 
 
